@@ -1,0 +1,22 @@
+*{margin:0; padding:0;}
+body{background: papayawhip;}
+#navegar {background: pink; height: 70px; width:100%; top: 0 px; margin: 0 auto;}
+#area-navegar {width: 80%; margin: 0 auto;}
+#logo{float: left;} 
+#menu {float: right;padding: 0px 0px; font-size: 15px}
+#area-principal{width: 80%;}
+#postagem{background:papayawhip; padding: 10px 10px 10px 10px;  float: right;}
+
+.white{color:white; font-size:40px}
+.titulo-post{color:grey; font-size:20px;}
+.titulo-artigo{color:#708090; font-size:20px;padding: 35px 10px; font-size:30px; text-align: center; font-family: Arial;}
+.data-post{color: grey; font-size: 15px;}
+.texto-post{color: auto; font-size: 15px; font-family: Arial;}
+.img-flutuante{float:left; margin: 0px 10px 10px 0px;}
+.post-por{border-Left: 5px solid red; padding-left:5px; display: block; margin: 10px;}
+.borda{ border:10px; border-color:black;}
+.texto-rodape{text-align:center; padding: 20px 10px 0px 0px; color:grey;}
+.texto-titulocontato{color:#708090;padding: 5px 10px 10px 10px; font-size:20px;}
+.texto-contato{ padding: 1px 10px 0px 10px;}
+.texto-link{ padding: 5px 0px 0px 10px; margin:0px 0px 0px 300px;}
+
